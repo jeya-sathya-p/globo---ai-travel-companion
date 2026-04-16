@@ -1,0 +1,5 @@
+{
+  "name": "Globo - AI Travel Companion",
+  "description": "Futuristic AI travel guide with interactive maps, itineraries, and gamified rewards.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
