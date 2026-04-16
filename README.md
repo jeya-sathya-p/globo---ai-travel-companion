@@ -8,7 +8,7 @@ A React + Vite travel assistant that uses Google Gemini to generate destination 
 - Destination cards, itinerary timelines, and gamified progress elements
 - Speech recognition and speech synthesis support in the browser
 - Modern UI built with React, Tailwind-style classes, and motion animations
-- Gemini API integration via `@google/genai`
+
 
 ## Tech Stack
 
